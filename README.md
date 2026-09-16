@@ -1,6 +1,6 @@
 # Resumix AI
 
-A MERN-style AI interview preparation application based on the architecture of the tutorial project by Ankur Prajapati, adapted for Resumix.
+A MERN-style AI interview preparation application based on adapted for Resumix.
 
 ## Features
 
